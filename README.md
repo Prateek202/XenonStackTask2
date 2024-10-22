@@ -59,22 +59,27 @@ sysopctl service list
 ## Sample Screenshots
 
 **Version**  
-![version](https://github.com/user-attachments/assets/bb164d5a-bdab-429d-bac1-9281c44fd4a8)
+![version](https://github.com/user-attachments/assets/07414b4f-98b2-482b-8650-1d16295600dc)
+
 
 
 **Disk Usage**  
-![Disk Usage](https://github.com/user-attachments/assets/997292cb-1e83-473d-970b-ac246ae0be3e)
+![Disk Usage](https://github.com/user-attachments/assets/c6e8e0e3-2258-4664-9095-55be106b6aee)
+
 
 **Help**  
-![help](https://github.com/user-attachments/assets/58d67fc4-3243-4506-b102-c216d6fd61df)
+![help](https://github.com/user-attachments/assets/5a409cea-d1f8-40a8-b420-959fc051b0dd)
+
+
 
 
 **Process Monitor**  
-![Process Monitor](https://github.com/user-attachments/assets/b305561c-55cb-483f-984e-40197cedae70)
+![Process Monitor](https://github.com/user-attachments/assets/52d38254-4790-48f7-ac4b-37fae50e4393)
 
 
 **System Load**  
-![System load](https://github.com/user-attachments/assets/5004f7f5-46ba-49a9-a82b-898d1703d6fd)
+![System load](https://github.com/user-attachments/assets/b02ac6ad-2583-4afa-9bff-1165beea5353)
+
 
 
 
